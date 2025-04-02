@@ -2,16 +2,6 @@
 
 /*
  * Script para buscar a relação entre as tabelas
- * 
- * o que precisa fazer 
- * - Buscar tabelas e suas dependencias e as dependencias delas. 
- * - Criar uma procedure que busque a relação entre as tabelas, passar somente tabelas especificas
- * - Criar procedure que realize o delete das tabelas conforme a data de movimento e a empresa 
- * 
- * 
- * o que ja foi feito
- * 
- * 
  */
 
 ----------------------
