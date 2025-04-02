@@ -1,1 +1,1 @@
-#Função de busca de dependencias
+# Função de busca de dependências
